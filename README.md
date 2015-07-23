@@ -1,1 +1,3 @@
-# multer
+To run
+
+node server.js
